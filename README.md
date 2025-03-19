@@ -1,2 +1,0 @@
-# mahjong-sc-hitam
-Website
